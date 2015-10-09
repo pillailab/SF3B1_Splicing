@@ -1,7 +1,7 @@
 # SF3B1_Splicing
 PERL Scripts of Splice Junction (SJ) Analysis
 
-Extract annotated SJ from Gencode GTF file 
+Extract annotated SJ from Gencode GTF file
 gencode_sj.pl		
 
 Process SJ determined by FineSplice in the format required by custom PERL script
