@@ -1,5 +1,5 @@
 # SF3B1_Splicing
-PERL Scripts of Splice Junction (SJ) Analysis
+PERL Scripts for Splice Junction (SJ) Analysis
 
 Extract annotated SJ from Gencode GTF file
 gencode_sj.pl		
